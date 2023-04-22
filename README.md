@@ -4,7 +4,7 @@ This is a solution to the [Interactive card details form challenge on Frontend M
 
 ## Links
 
-> Solution URL: [GitHub](https://github.com/HioFabien/nft-preview-card-component-main)  
+> Solution URL: [GitHub](https://github.com/hiofabien/interactive-card-details-form)  
 > Live Site URL: [GitHub](https://hiofabien.github.io/nft-preview-card-component-main)
 
 ## Built with
