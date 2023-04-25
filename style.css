@@ -453,21 +453,21 @@
 
 .attribution {
     position: absolute;
-    inset: auto 0 0;
-    margin-block-end: 5px;
+    inset: auto 0 1rem 0;
 
-    font-size: 11px;
+    font-size: 1rem;
     text-align: center;
 
-    color: var(--attr-not-active-clr);
+    color: var(--black);
 }
 
 .attribution__link {
-    color: var(--attr-not-active-clr);
+    text-decoration: none;
+    color: var(--black);
     
     transition: color 200ms;
 }
 
 .attribution__link:hover {
-    color: var(--black);
+    color: var(--error-clr);
 }
