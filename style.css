@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500&display=swap');
 
+/* --------------------------------------------------------------Variables */
+
 :root {
     --gradient-start-clr: hsl(249, 99%, 64%);
     --gradient-end-clr: hsl(278, 94%, 30%);
@@ -26,7 +28,7 @@
 }
 
 .body {
-    min-height: 100svh;
+    min-height: 100vh;
 }
 
 .main {
@@ -447,27 +449,4 @@
         width: min(400px, 87.5%);
         min-width: 300px;
     }
-}
-
-/* --------------------------------------------------------------Author */
-
-.attribution {
-    position: absolute;
-    inset: auto 0 1rem 0;
-
-    font-size: 1rem;
-    text-align: center;
-
-    color: var(--black);
-}
-
-.attribution__link {
-    text-decoration: none;
-    color: var(--black);
-    
-    transition: color 200ms;
-}
-
-.attribution__link:hover {
-    color: var(--error-clr);
 }
