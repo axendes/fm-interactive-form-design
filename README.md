@@ -1,12 +1,12 @@
-# Frontend Mentor - Interactive Card Details Form Solution
+<h1 align="center">Frontend Mentor - Interactive Card Details Form Solution</h1>
 
-This is a solution to the [Interactive card details form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw).
+<div align="center"><a href="https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw">This Challenge on Frontend Mentor</a></div>
+<div align="center"><a href="https://hiozen.github.io/interactive-card-details-form/">Live Preview</a></div>
 
-## Built with
+<h2 align="center">Built with</h2>
 
-> **Semantic HTML5 Markup  
-> CSS Custom Properties  
-> CSS Grid  
-> CSS Flex  
-> JavaScript  
-> Media Queries**
+<div align="center"><b>Semantic HTML5 markup</b></div>
+<div align="center"><b>CSS custom properties</b></div>
+<div align="center"><b>CSS Grid</b></div>
+<div align="center"><b>CSS Flex</b></div>
+<div align="center"><b>JavaScript</b></div>
